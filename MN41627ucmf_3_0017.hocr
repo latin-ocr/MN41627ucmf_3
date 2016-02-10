@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41627ucmf_3_0017.png"; bbox 0 0 2661 3673; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 176 583 1145 697">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 176 583 1145 697">
+     <span class='ocr_line' id='line_1_1' title="bbox 176 583 1145 697; baseline -0.001 -6"><span class='ocrx_word' id='word_1_1' title='bbox 176 584 787 697; x_wconf 69' lang='lat' dir='ltr'>ARCHAEOLOOEA</span> <span class='ocrx_word' id='word_1_2' title='bbox 849 583 1145 694; x_wconf 71' lang='lat' dir='ltr'>3131.ch</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 384 1031 931 1268">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 384 1031 931 1268">
+     <span class='ocr_line' id='line_1_2' title="bbox 611 1031 706 1072; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 611 1031 706 1072; x_wconf 75' lang='lat' dir='ltr'>NOTAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 384 1128 931 1175; baseline 0.002 -7"><span class='ocrx_word' id='word_1_4' title='bbox 384 1128 459 1175; x_wconf 76' lang='lat' dir='ltr'>QUAS</span> <span class='ocrx_word' id='word_1_5' title='bbox 474 1130 500 1169; x_wconf 83' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_6' title='bbox 516 1129 593 1170; x_wconf 83' lang='lat' dir='ltr'>USUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 609 1129 748 1171; x_wconf 77' lang='lat' dir='ltr'>PRIVATUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 764 1129 931 1171; x_wconf 74' lang='lat' dir='ltr'>AUDITORUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 589 1227 727 1268; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 589 1227 727 1268; x_wconf 76' lang='lat' dir='ltr'>COLLEGIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 400 1600 912 1663">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 400 1600 912 1663">
+     <span class='ocr_line' id='line_1_5' title="bbox 400 1600 912 1663; baseline 0.002 -15"><span class='ocrx_word' id='word_1_10' title='bbox 400 1600 818 1650; x_wconf 75' lang='lat' dir='ltr'>AUGUSTlNUSBEA</span> <span class='ocrx_word' id='word_1_11' title='bbox 843 1602 868 1649; x_wconf 90' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_12' title='bbox 889 1602 912 1663; x_wconf 88' lang='lat' dir='ltr'>J.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1336 3673">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1336 3673">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1336 3673; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1336 3673; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

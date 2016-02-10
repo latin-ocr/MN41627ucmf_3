@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41627ucmf_3_0008.png"; bbox 0 0 2183 3096; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 170 499 1069 825">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 170 499 1069 825">
+     <span class='ocr_line' id='line_1_1' title="bbox 170 499 1069 825; baseline -0.01 -69"><span class='ocrx_word' id='word_1_1' title='bbox 170 510 488 813; x_wconf 73' lang='lat' dir='ltr'>Bea,</span> <span class='ocrx_word' id='word_1_2' title='bbox 543 499 1069 825; x_wconf 79' lang='lat' dir='ltr'>August</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 169 1328 1092 2083">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 169 1328 1092 2083">
+     <span class='ocr_line' id='line_1_2' title="bbox 169 1328 1092 1661; baseline -0.014 -67"><span class='ocrx_word' id='word_1_3' title='bbox 169 1328 1092 1661; x_wconf 76' lang='lat' dir='ltr'>Archaeologi</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 183 1751 1054 2083; baseline -0.014 -71"><span class='ocrx_word' id='word_1_4' title='bbox 183 1751 1054 2083; x_wconf 78' lang='lat' dir='ltr'>[mieroform]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1096 3096">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1096 3096">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1096 3096; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1096 3096; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 170 2594 1049 2908">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 170 2594 1049 2908">
+     <span class='ocr_line' id='line_1_5' title="bbox 170 2594 1049 2908; baseline -0.006 -55"><span class='ocrx_word' id='word_1_6' title='bbox 170 2610 639 2908; x_wconf 77' lang='lat' dir='ltr'>Roma,</span> <span class='ocrx_word' id='word_1_7' title='bbox 714 2594 1049 2851; x_wconf 79' lang='lat'>1939</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
